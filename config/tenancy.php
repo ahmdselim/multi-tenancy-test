@@ -17,6 +17,7 @@ return [
      */
     'central_domains' => [
         'selim.test',
+        'formationconsultancy.com',
     ],
 
     /**
